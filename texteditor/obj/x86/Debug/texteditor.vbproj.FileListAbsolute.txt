@@ -1,0 +1,9 @@
+D:\Object Oriented Programming\Reguler-B\texteditor\texteditor\bin\Debug\texteditor.exe
+D:\Object Oriented Programming\Reguler-B\texteditor\texteditor\bin\Debug\texteditor.pdb
+D:\Object Oriented Programming\Reguler-B\texteditor\texteditor\bin\Debug\texteditor.xml
+D:\Object Oriented Programming\Reguler-B\texteditor\texteditor\obj\x86\Debug\texteditor.Form1.resources
+D:\Object Oriented Programming\Reguler-B\texteditor\texteditor\obj\x86\Debug\texteditor.Resources.resources
+D:\Object Oriented Programming\Reguler-B\texteditor\texteditor\obj\x86\Debug\texteditor.vbproj.GenerateResource.Cache
+D:\Object Oriented Programming\Reguler-B\texteditor\texteditor\obj\x86\Debug\texteditor.exe
+D:\Object Oriented Programming\Reguler-B\texteditor\texteditor\obj\x86\Debug\texteditor.xml
+D:\Object Oriented Programming\Reguler-B\texteditor\texteditor\obj\x86\Debug\texteditor.pdb
